@@ -1,0 +1,30 @@
+﻿  Source.cpp
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(179,12): warning C4244: 'return': conversión de 'WPARAM' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(500,27): warning C4244: '=': conversión de 'UINT' a 'float'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(607,36): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(611,32): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(756,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(773,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(821,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(839,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(889,33): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(908,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(928,32): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1011,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(907,9): warning C4101: 'textoList': variable local sin referencia
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1105,33): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1150,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1181,32): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1232,35): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1236,31): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1377,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1149,9): warning C4101: 'textoList': variable local sin referencia
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1501,17): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1547,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1600,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1684,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1746,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1764,14): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1599,9): warning C4101: 'textoList': variable local sin referencia
+D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\Primer avance 1\Source.cpp(1635,9): warning C4101: 'idStr': variable local sin referencia
+  Primer avance 1.vcxproj -> D:\jjdel\Escritorio\4to semestre\Estructura de datos\Segundo avance\Primer avance 1\x64\Debug\Primer avance 1.exe
